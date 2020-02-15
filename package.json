@@ -9,6 +9,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.1",
-    "yarn": "^1.19.2"
+    "yarn": "^1.22.0"
   }
 }
